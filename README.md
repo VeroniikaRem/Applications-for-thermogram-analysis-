@@ -1,2 +1,3 @@
 # Applications-for-thermogram-analysis-
-Read me is inside install file
+"Readme file" is inside the install file in Czech langue.
+If you are non-czech speaker, there is also video guide to show you how to use this application
